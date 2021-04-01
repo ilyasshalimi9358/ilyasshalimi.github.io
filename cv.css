@@ -1,0 +1,110 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.first{
+    background-image: url('gettyimages.jpg');
+}
+.img{
+    border-radius: 5px;
+    height: 160px;
+    width:350px;
+    margin-left: 50px;
+    display: flex;
+    margin-top: 0px;
+}
+.main_image{
+    display: flex;
+
+}
+
+.main_grid{
+    /*display: grid;*/
+    margin-left: 40px;
+    margin-bottom: 15px;
+/*grid-template-columns: center;
+ justify-content: center;*/
+}
+.main_grid p {
+    grid-template-columns: center;
+    justify-content: center;
+    font-size: 1.5rem;
+    padding-right:100px;  
+}
+.main_grid h2{
+    color:rgba(57, 160, 219, 0.945) ;
+}
+.contact{
+   justify-content: center;
+    padding-right:100px;
+    padding-top: 0px;
+    
+}
+.contact p{
+    padding-right: 70px;
+    font-size: 1.5rem;
+}
+.first_nfo{
+    margin-left: 30px;
+    margin-top: 13px;
+}
+.second_info{
+    margin-left: 15%;
+    margin-top: 3px;
+
+}
+.first_nfo h1{
+    color:rgba(57, 160, 219, 0.945);
+}
+.first_nfo p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.5rem;
+}
+.second_info h1{
+    color: rgba(57, 160, 219, 0.945);}
+.second_info p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.5rem;
+}
+.ensah h1{
+    background:#0003b3 ;
+    background-image: linear-gradient(to top,#08ff3d 0%,rgba(29, 82, 255, 0.067) 100%);
+    -webkit-background-clip:text;
+	-moz-background-clip:text;
+	-webkit-text-fill-color:transparent; 
+	-moz-text-fill-color:transparent;
+    -
+    }
+    .all_icon{
+    padding-left: 150px;
+    padding-top: 5px;
+    position: relative;
+    }
+    .icon{
+        height: 20px;
+        width: 20px;
+        padding-right: 6px;
+        
+    }
+    .icon1{
+    height: 20px;
+    width: 20px;
+    padding-right: 6px;
+    
+    }
+    .icon2{
+    height: 20px;
+     width: 20px;
+     padding-right: 6px;
+     padding-top: 6px;
+    
+    }
+    .icon3{
+    height: 20px;
+    width: 20px;
+    padding-right: 6px;
+    padding-top:29px;
+    
+    }
+
+    
